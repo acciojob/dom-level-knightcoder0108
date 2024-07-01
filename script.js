@@ -1,5 +1,4 @@
 //your JS code here. If required.
-//your JS code here. If required.
 
 function findDomElement(elementId) {
 	var element  = document.getElementById(elementId)
